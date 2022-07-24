@@ -458,10 +458,10 @@ h1 span[style], h2 span[style], h3 span[style], p span[style], h1 strong, h2 str
 h1.style2, h2.style2, h3.style2, p.style2 {
 	color: #010B42;
 	font-family: 'Poppins', sans-serif;
-	font-size: 4.5em;
+	font-size: 2.75em;
 	line-height: 1.25;
 	font-weight: 700;
-	background-image: linear-gradient(45deg, #362F87 0%, #010B42 85%);
+	background-image: linear-gradient(45deg, #362F87 0%, #222C63 85%);
 	-webkit-background-clip: text;
 	-webkit-text-fill-color: transparent;
 }
